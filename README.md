@@ -1,4 +1,15 @@
-## My Stats
+### :alien: Hello World!! I'm Marcel 🖖
+<hr>
+
+<div align="center">
+  
+  ![PHP](https://img.shields.io/badge/-php-7478AE?style=flat&logoColor=white&logo=php) 
+    ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) 
+  ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) 
+  ![ANGULAR](https://img.shields.io/badge/-ANGULAR-ff0d00?style=flat&logoColor=white&logo=angular) 
+  
+</div>
+
 
 [![Visits Badge](https://badges.pufler.dev/visits/mmmelo/git)](https://badges.pufler.dev)
 
