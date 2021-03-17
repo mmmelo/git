@@ -1,6 +1,15 @@
 ### :alien: Hello World!! I'm Marcel 🖖
 <hr>
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/mmmelo/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmmelo/" alt="Linkedin" />
+  </a>
+<a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/mmmelo/git" alt="Visitors badge" />
+  </a>
+</div>
+
 <div align="center">
   
   ![PHP](https://img.shields.io/badge/-php-7478AE?style=flat&logoColor=white&logo=php) 
